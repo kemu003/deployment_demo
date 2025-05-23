@@ -1,0 +1,7 @@
+﻿# Treat all files as text and normalize to LF on commit
+* text=auto eol=lf
+
+# Optionally, force certain files to keep LF
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
