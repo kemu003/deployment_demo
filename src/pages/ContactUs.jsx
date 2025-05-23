@@ -15,7 +15,7 @@ const ContactUs = () => {
 
   const links = {
     whatsapp: 'https://wa.me/254731522280?text=' + encodeURIComponent('Hello, I visited your website and would like to get in touch!'),
-    facebook: 'https://www.facebook.com/profile.php?id=100072239960786',
+    facebook: 'https://www.facebook.com/profile.php?id=61576581602675',
     email: 'mailto:rapstarinvestment@gmail.com',
     phone: `tel:${phoneNumber}`,
   };
